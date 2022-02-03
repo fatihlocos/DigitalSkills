@@ -1,0 +1,47 @@
+/* #title{
+    color:aqua;
+    background-color: black;
+}
+
+ctrl + K + C > COMMENT IT
+CTRL + K + U > UNCOMMENT IT
+
+p{
+    color:red;
+    widht: 50%;
+}
+
+h2{
+    width: 20%;
+} */
+
+
+div{
+    width: 50%;
+}
+
+.container{
+    background-color: bisque;
+}
+
+#main{
+    padding: 20px;
+    margin: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  th, td {
+      background-color: aquamarine;
+      padding: 20px;
+      font-size: 16pt;
+      color: darkblue;
+  }
+
+
+li {
+  display:inline;
+}
