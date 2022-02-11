@@ -1,0 +1,12 @@
+input:checked{
+    width: 20px;
+    height: 20px;
+}
+
+input:focus{
+    background-color: rgb(151, 67, 67);
+}
+
+input:optional{
+    color: rgb(29, 26, 26);
+}
